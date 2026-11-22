@@ -1,2 +1,0 @@
-billing error: negative charge
-user message: claim exceeds cover

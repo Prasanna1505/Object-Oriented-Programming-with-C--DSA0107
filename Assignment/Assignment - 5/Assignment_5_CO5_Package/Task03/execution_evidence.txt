@@ -1,4 +1,0 @@
-SelfPay covers 0
-Insurance covers 36000
-GovernmentScheme covers 30000
-CorporateTieUp covers 35000
